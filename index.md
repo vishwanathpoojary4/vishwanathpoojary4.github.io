@@ -8,7 +8,7 @@ This project aims to predict the future stock prices of Amazon using Long Short-
 
 <img src="images/Amazon.jpg?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![](https://img.shields.io/badge/numpy-white)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/numpy-white)](#)
 
 [View code on Github](https://github.com/vishwanathpoojary4/Amazon-stock.git)
 
