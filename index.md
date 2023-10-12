@@ -18,7 +18,6 @@ This project aims to predict the future stock prices of Amazon using Long Short-
 
 A data cleaning project for processing and refining data scraped from Glassdoor's website.
 
-<img src="images/mobility.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-blue)](#) [![](https://img.shields.io/badge/numpy-white)](#)
 
